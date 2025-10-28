@@ -4,19 +4,23 @@ Concept/project to build a device that captures an event type and GPS location t
 ## Problem/Scenario
 
 Whilst riding, both adverse and positive events occur. Examples of negative events include:
+
 Vehicular:
 - close passes by vehicles
 - vehicles blocking/obstructing bike lanes/paths
 - near misses at intersections
 - abuse/throwing items
+
 Pedestrian:
 - dogs on long leads/no leads
 - blocking bikepath
 - stepping out/stopping suddenly
+
 Other cyclists:
 - close/fast passing
 - near misses at intersections
 - abuse
+
 Environmental:
 - blockages (eg fallen trees/branches)
 - detours/poor signage/routes
